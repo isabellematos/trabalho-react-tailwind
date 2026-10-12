@@ -1,4 +1,4 @@
-# Trabalho React + Tailwind — Luana
+# Trabalho React + Tailwind — Isabelle
 
 Projeto de estudos com React, Vite e Tailwind CSS. Os dez exercícios estão implementados. Veja as explicações de props e classes em [ESTUDO_REACT.md](ESTUDO_REACT.md).
 
